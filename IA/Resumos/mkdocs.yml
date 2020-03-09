@@ -1,3 +1,12 @@
 site_name: My Docs
 theme:
     name: bootstrap4
+nav:
+    - Início: index.md
+    - Fundamentos: 1. Fundamentos/index.md
+    - Busca Local: 2. Busca Local/index.md
+    - Algoritmos Genéticos: 3. Algoritmos Genéticos/index.md
+    - Jogos Adversariais: 4. Jogos Adversariais/index.md
+    - Aprendizado de Máquina: 5. Aprendizado de Máquina/index.md
+    - Redes de Crença: 6. Redes de Crença/index.md
+    - Redes Neurais: 7. Redes Neurais/index.md
